@@ -17,12 +17,18 @@
 > - app de Gestão de dieta e nutrição para Atletas!
 > - App de educação com RA¹!
 
-
 <h6>
   1. RA: Realida Aumentada
 </h6>
 
 </h3>
+<hr>
+
+## IDEIA ESCOLHIDA
+
+>[!important]
+> - Divulgação e Aluguel de quadras
+<hr>
 
 
 ## Integrantes
